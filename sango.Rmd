@@ -1,0 +1,19 @@
+---
+title: "SangO"
+author: "SangOKim"
+date: "2/12/2022"
+output: html_document
+---
+
+
+***Cornell University***\
+
+- Ph.D City and Regional Planning
+
+***University of Southern California***\
+
+- Master in Urban Planning 
+
+***Kings College London***\
+
+- Bachelor of Arts in Geography 

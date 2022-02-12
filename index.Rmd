@@ -1,0 +1,14 @@
+---
+title: "Index"
+author: "SangOKim"
+date: "2/12/2022"
+output: html_document
+---
+
+## Landing Page for the A3 Website
+
+Created on 12th of Feb, in collaboration with Paula Banuelos (peb89)
+
+```{r, fig.align="center", eval=TRUE, echo=FALSE}
+knitr::include_graphics("C:\\Users\\User\\Dropbox\\PC\\Desktop\\Personnal\\PhD.png")
+```
