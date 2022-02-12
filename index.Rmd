@@ -4,11 +4,17 @@ author: "SangOKim"
 date: "2/12/2022"
 output: html_document
 ---
+```{r, echo=FALSE, eval=FALSE}
+library(tidyverse)
+library(knitr)
+```
 
 ## Landing Page for the A3 Website
 
 Created on 12th of Feb, in collaboration with Paula Banuelos (peb89)
 
-```{r, fig.align="center", eval=TRUE, echo=FALSE}
-knitr::include_graphics("C:\\Users\\User\\Dropbox\\PC\\Desktop\\Personnal\\PhD.png")
+And I love penguins 
+
+```{r echo=FALSE, out.width='100%'}
+knitr::include_graphics("C:\\Users\\User\\github_kso\\assignment-3-sk3322\\lter_penguins.png")
 ```
