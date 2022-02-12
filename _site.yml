@@ -1,0 +1,19 @@
+name: "assignment3_website"
+navbar:
+  title: "Collaborative Website for Assignment3"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      menu:
+        - text: "Sang-O"
+          href: sango.html
+        - text: "Paula"
+          href: paula.html
+output_dir: "."
+output:
+  html_document:
+    theme: united
+    highlight: textmate
+    toc: true 
+    toc_float: true 
